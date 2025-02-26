@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhafarooq-ibex&label=Profile%20views&color=0e75b6&style=flat" alt="talhafarooq-ibex" /> </p>
 
-- 🔭 I’m currently working on [an advanced RAG system](https://bot-dev.enteract.cloud/)
-
-- 💬 Ask me about **python and AI related stuff**
+- 💬 Ask me about **Python and AI related stuff**
 
 - 📫 How to reach me **talha.farooq@ibex.co**
 
